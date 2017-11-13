@@ -1,6 +1,3 @@
-#this code write Python#
-
-
 import sys
 from ctypes import *
 from ctypes.wintypes import MSG
